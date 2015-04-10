@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: plh1.jpg
+alt: image-alt
+project-date: April 2015
+client: Fablab User
+category: Blog posts
+description: Donec malesuada eleifend diam vel semper. Suspendisse iaculis scelerisque dolor, interdum varius lectus pulvinar at. Quisque in purus a eros pharetra rutrum. Sed consectetur condimentum libero, a imperdiet lectus pretium vitae. Curabitur sed libero elit. Nullam rutrum velit at lacus volutpat, nec accumsan purus facilisis. Donec tempus feugiat metus sed pretium. Sed in placerat lacus. Pellentesque at convallis metus, id commodo felis. Suspendisse sagittis lorem rhoncus, scelerisque turpis nec, vehicula justo. Duis ac tincidunt erat, non convallis lorem. Cras consequat nisi quis augue tincidunt tincidunt. Curabitur felis ipsum, eleifend et orci facilisis, dignissim condimentum lacus. Integer eget nulla neque.
+---

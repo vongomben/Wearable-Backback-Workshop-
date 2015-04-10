@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-09
+img: plh1.jpg
+alt: image-alt
+project-date: April 2015
+client: Fablab User
+category: Blog posts
+description: Phasellus euismod libero felis, luctus fermentum leo porta vitae. Proin ac commodo lectus, eget laoreet diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam semper purus ut vehicula vulputate. Sed rhoncus accumsan leo, vel tempor tortor volutpat sit amet. Praesent in massa vitae sem rhoncus elementum. Sed pellentesque quis mauris eleifend dapibus. Fusce ut ex rhoncus, vehicula lacus eget, tempor dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec ac dolor eu tellus interdum fermentum. Vivamus vitae ultrices dolor. Donec in velit quis libero dictum rutrum vitae vitae quam. Sed vulputate urna at bibendum cursus. Phasellus vitae dolor tincidunt, malesuada augue et, vehicula diam.
+
+---

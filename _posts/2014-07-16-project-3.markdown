@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: plh1.jpg
+alt: image-alt
+project-date: April 2015
+client: Fablab User
+category: Blog posts
+description: Aenean non vulputate lacus, nec tempor mi. Cras sagittis metus sed velit aliquet faucibus. Sed quis dapibus nisl. Quisque quis interdum nisl. Cras fringilla arcu venenatis ipsum cursus semper. Aliquam non consequat odio. Quisque semper nec urna eu vestibulum. Maecenas porta non elit nec tincidunt. Donec porttitor tortor at neque aliquam finibus. In quis diam ligula. Nam sollicitudin sem id blandit sodales. Aliquam fringilla ligula et justo mattis, in varius turpis maximus.
+---
