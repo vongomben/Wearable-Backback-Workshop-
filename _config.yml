@@ -12,6 +12,7 @@ color:
   primary: 18bc9c #80B3FF
   secondary: 2c3e50 #FD6E8A
   secondary-dark: A2122F #233140 
+  third: A2122F
 
 # Footer settings
 footer:
