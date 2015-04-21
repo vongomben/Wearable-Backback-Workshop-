@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-10
+date: 2014-07-14
 img: plh1.jpg
 alt: image-alt
 project-date: April 2015

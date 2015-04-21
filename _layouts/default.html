@@ -7,8 +7,26 @@
     {% include about.html %}
 
     
+    {% if site.visualization == "grid" %}
+    {% include portfolio_grid.html %}
+
+	{% elsif  site.visualization == "blog" %}
     {% include blog.html %}
+    
+    {% else site.visualization == "none" %}
+    {% include empty.html %}
+    {% endif %}
+
+
+    
+    {% if site.contact == "static" %}
     {% include contact_static.html %}
+    {% elsif site.contact == "dinamic" %}
+    {% include contact.html %}
+    {% elsif site.contact == "none" %}
+    {% include empty.html %}
+    {% endif %}
+
 
     {% include footer.html %}
     {% include js.html %}
