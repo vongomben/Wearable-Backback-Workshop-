@@ -450,6 +450,8 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+
 .navbar-default {
   background-color: #00979C;}
 
@@ -461,6 +463,15 @@ footer .footer-below {
 padding-top: 8%;
 
 }
+
+#about hr.star-light {
+  border-color: #00979C;
+}
+
+#portfolio hr.star-primary {
+  border-color: #ffffff;
+}
+
 
 header .container {  
 	top: 20%;
@@ -476,16 +487,16 @@ header{
 
 section {
    padding: 0 0 0 0; 
-   padding-top: 3.5%;
 }
 
 .peopleCarouselImg img {
   width: auto;
+  max-height:244px;
 }
 
 
 .carousel-inner{
-height:33%;
+height:30%;
 background-color: white;
 
 }
@@ -510,10 +521,6 @@ background-color: white;
 	font-style: italic;
 }
 
-hr.star-light {
-  border-color: #00979C;
-}
-
 hr.star-light:after, hr.star-primary:after {
   content: none;}
 
@@ -524,6 +531,8 @@ section.success .star-light-about{
 section.portfolio .star-primary{
  border-color: #ffffff;
 }
+
+
 
 section.success {
   color: #555555;
@@ -544,6 +553,7 @@ header .container {
 #portfolio {
 background-color: #008184;
   color: #ffffff;
+  padding-top: 2.5%;
 
 }
 
@@ -567,6 +577,9 @@ color: white;
 }
 
 .control-group{border-radius: 5px;}
+
+#contact{padding-top: 2.5%;
+}
  
 
 nav,header,body,footer,p{font-family: Arial, Helvetica, sans-serif;}
