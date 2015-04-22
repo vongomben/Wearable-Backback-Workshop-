@@ -85,6 +85,7 @@ section.portfolio .star-primary{
 section.success {
   color: #555555;
   background: #ffffff;
+  padding-bottom: 5%;
 }
 
 section.success h2 {
@@ -168,6 +169,14 @@ h2{color: #4A3E38;}
 	margin-right: auto;
 	float: none;
 
+}
+
+.modal-content hr.star-primary {
+  border-color: #00979C;
+}
+
+.portfolio-modal .modal-content h2 {
+  color: #00979C;
 }
 
 
