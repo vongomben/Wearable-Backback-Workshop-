@@ -537,6 +537,7 @@ section.portfolio .star-primary{
 section.success {
   color: #555555;
   background: #ffffff;
+  padding-bottom: 5%;
 }
 
 section.success h2 {
