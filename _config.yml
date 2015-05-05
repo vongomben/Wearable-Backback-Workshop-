@@ -1,14 +1,14 @@
 # Site settings
-title: YourProject
-email: your-email@domain.com
+title: Interactive Wearable Backpack Workshop 
+email: info@fablabtorino.org
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "This is the project page of a introductive wearable computing workshop held in beginning 2015 at FablabTorino, Italy"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
 
 # Visualization mode: here you can chose the visualization of your posts; write grid if you want a grid layout; write blog if you want a blog-style layout. if you don't want do show this section write none. !!modify href on navbar tab "post" in nav.html
-visualization: none
+visualization: post
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -18,31 +18,32 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Fablab Torino 
+  location: Turin
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: The Internet
+    url: http://fablabtorino.org/
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/fablabtorino
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url:https://www.facebook.com/fablabtorino
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/fablabTorino
+  - title: youtube
+    url: https://www.youtube.com/user/ItalianFabLab
+  - title: Thingiverse
+    url: http://www.thingiverse.com/FablabTorino/designs
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Via Egeo 16, Torino
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Based on Freelancer, adapted by Ale Gueli for Officine Arduino / FablabTorino'
 
 # Build settings
 markdown: kramdown
